@@ -14,7 +14,7 @@ I am Tanvi Saxena. I am persuing Bachelor of Technology focused in Computer Scie
 
 ### ⚡ One line that describes me best? 
 An ambitious girl who loves to listen music, day dream at nights and sometime codes too.😉😉
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS07c0s7VeFyK4bmD0vTYp3x-YtwQ8R6CrM-ZO5tFzfDD2fC3M4XhuAOLjVk-ISMOJ46Tw&usqp=CAU">
+
 ### 📫 How to reach me?
 - [Twitter](https://twitter.com/TanviSaxena18)
 - [LinkedIn](https://www.linkedin.com/in/tanvi-saxena-19t01/) 
