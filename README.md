@@ -29,7 +29,7 @@ You can ask me anything (within reason). I am looking forward to absorb knowledg
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanvisaxena1901&show_icons=true&locale=en&layout=compact" alt="tanvisaxena1901" /></p>
 # 📊 GitHub Stats:
-[![Tanvi's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanvisaxena1901)](https://github.com/tanvisaxena1901/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
 
 
 ## 🏆 GitHub Trophies
