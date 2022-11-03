@@ -1,7 +1,7 @@
 # Hello, geeks! 👋
 
 Learning,Unlearning and Relearning.
-I am Tanvi Saxena. I am persuing Bachelor of Technology focused in Computer Science from Banasthali Vidyapith.I have strong interpersonal skills along with strong communication skills.I see the world as a network of connected systems.I study these systems and their relationships to build what i need,from what I know.I look for opportunities that interests me and keep me motivated.i love helping and motivating others.I am an experienced developer skilled in C++, Java, MERN, Javascript and its frameworks. ⚡ I am involved in a lot of *organizational works* in college related to clubs, hackathons, fests and workshops and helped in building many communities from scratch.
+I am Tanvi Saxena. I am persuing Bachelor of Technology focused in Computer Science from Banasthali Vidyapith.I have strong interpersonal skills along with strong communication skills.I see the world as a network of connected systems.I study these systems and their relationships to build what i need,from what I know.I look for opportunities that interests me and keeps me motivated.I am an experienced developer skilled in C++, Java, MERN, Javascript and its frameworks. ⚡ I am involved in a lot of *organizational works* in college related to clubs, hackathons, fests and workshops and helped in building many communities from scratch.
 
 ### 🌱 What do I do and What have I done? 
 - Finalist at Jp Morgan and Chase CodeForGood 2022 National Hackathon.
