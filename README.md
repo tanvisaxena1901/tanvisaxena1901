@@ -29,8 +29,10 @@ You can ask me anything (within reason). I am looking forward to absorb knowledg
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanvisaxena1901&show_icons=true&locale=en&layout=compact" alt="tanvisaxena1901" />
 </p>
+
 ## 🏆 GitHub Stats
 ![Tanvi's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanvisaxena1901&theme=dark&show_icons=true)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=tanvisaxena1901&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
