@@ -29,9 +29,10 @@ You can ask me anything (within reason). I am looking forward to absorb knowledg
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanvisaxena1901&show_icons=true&locale=en&layout=compact" alt="tanvisaxena1901" /></p>
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=tanvisaxena1901&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=tanvisaxena1901&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tanvisaxena1901&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=ManasKrJha&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ManasKrJha&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ManasKrJha&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=tanvisaxena1901&theme=radical&no-frame=false&no-bg=true&margin-w=4)
