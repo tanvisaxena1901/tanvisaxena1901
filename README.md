@@ -11,7 +11,6 @@ She/Her
 - Core Team Member at Google Developer Student Club, Banasthali Vidyapith.
 - Technical Head at GFG Student Chapter of Banasthali Vidyapith
 - Ex Web Developer intern at The Sparks Foundation.
-- Course Curator at Uaceit- Ace at your pace and Mission Advocate at Widhya Technologies
 - Global Ambassador at Wonder Women Tech Network and GirlsUpAhsaas.
 - Semi-Finalist at Techgigs Coding Contest
 
