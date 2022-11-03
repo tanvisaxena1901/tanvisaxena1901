@@ -1,40 +1,31 @@
 # Hello, geeks! 👋
 
-I am Tanvi Saxena. I have strong media and communication professional with a Bachelor of Technology focused in Computer Science and engineering from _National Institute of Technology, Patna_. I am an experienced developer skilled in C++, Java, Android Development, Full Stack Development, Machine learning, MERN, Javascript and its frameworks. My activities are much beyond my stream of education. ⚡ I am involved in a lot of *organizational works* in college related to clubs, hackathons, fests and workshops and helped in building many communities from scratch.
+I am Tanvi Saxena. I have strong media and communication professional with a Bachelor of Technology focused in Computer Science and engineering Banasthali Vidyapith. I am an experienced developer skilled in C++, Java, MERN, Javascript and its frameworks. ⚡ I am involved in a lot of *organizational works* in college related to clubs, hackathons, fests and workshops and helped in building many communities from scratch.
 
 ### 😄 Pronouns
 She/Her
 
 ### 🌱 What do I do and What have I done? 
-
-- Mentor at OpenMined and Ex-Mentor at AnitaB Organisation for Open Source Hack 2020
-- Recipient of Twitter #DevelopHer India 2020 Scholarship, Bertelsmann Scholarship 2020 and Machine learning Scholarship, Microsoft Azure by Udacity 
-- Mentor and Project Admin at Kharagpur Winter of Code, IIT Kharagpur 2020-21, NJACK Winter of Code, IIT Patna 2020-21, Script Winter of Code 2021, Student Code-in 2020, Build with LetsUpgrade 2020, Contributors's Hack Hackin Codes 2020. 
-- Core Team Member at Developer Student Club, NIT Patna and Hackslash Mozilla Campus Club
-- Alexa Student Influencer 2020 and Chapter Lead at Alexa Dev Hub
-- Current Intern at GeeksForGeeks and Past Full Stack Development Intern at Dataly Services 
+- Finalist Jp Morgan and Chase CodeForGood 2022 National Hackathon.
+- Recipient of Google Generation 2022 Scholarship, Bertelsmann Scholarship 2021 and AWS Machine learning Scholarship by Udacity. 
+- Core Team Member at Google Developer Student Club, Banasthali Vidyapith.
+- Technical Head at GFG Student Chapter of Banasthali Vidyapith
+- Ex Web Developer intern at The Sparks Foundation.
 - Course Curator at Uaceit- Ace at your pace and Mission Advocate at Widhya Technologies
-- Global Ambassador at WomenTech Network, Auth0, Girls who Code and GirlUp Foundation
-
+- Global Ambassador at Wonder Women Tech Network and GirlsUpAhsaas.
+- Semi-Finalist at Techgigs Coding Contest
 
 ### ⚡ One line that describes me best? 
-An ambitious girl who loves to cook fries, day dream at nights and sometime codes too.😉😉
+An ambitious girl who loves to listen music, day dream at nights and sometime codes too.😉😉
 
 ### 📫 How to reach me?
-- [Twitter](https://twitter.com/garingh128) 
-- [LinkedIn](https://www.linkedin.com/in/garima-singh-34042a177/) 
-- [My personal portfolio](http://garimasingh.me) 
-- My personal blog- [Garima Codes](https://garimasingh.netlify.app/)
-- [Medium](https://medium.com/@garingh128)
-- [Sourcerer](https://sourcerer.io/garimasingh128)
+- [Twitter](https://twitter.com/TanviSaxena18)
+- [LinkedIn](https://www.linkedin.com/in/tanvi-saxena-19t01/) 
+- [Medium](https://medium.com/@tanvisaxena1901)
+
 
 You can ask me anything (within reason). I am looking forward to absorb knowledge🧠,gain experience 🏭, collaborate🤝 and build amazing products 🏭for the world🌍!
 
-
-<p align="center"> 
-  Visitors count<br>
-  <img src="https://profile-counter.glitch.me/garimasingh128/count.svg" />
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
