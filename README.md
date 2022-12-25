@@ -33,8 +33,7 @@ You can ask me anything (within reason). I am looking forward to absorb knowledg
 ## 🏆 GitHub Stats
 ![Tanvi's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanvisaxena1901&theme=dark&show_icons=true)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=tanvisaxena1901&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=tanvisaxena1901&icon=0&color=0)](https://visitcount.itsvg.in)
