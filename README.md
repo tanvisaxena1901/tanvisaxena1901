@@ -30,8 +30,22 @@ You can ask me anything (within reason). I am looking forward to absorb knowledg
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanvisaxena1901&show_icons=true&locale=en&layout=compact" alt="tanvisaxena1901" />
 </p>
 
-## 🏆 GitHub Stats
-![Tanvi's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanvisaxena1901&theme=dark&show_icons=true)
+<hr>
+
+<div align="center">
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SampratiVishnoi&theme=dark" alt="SampratiVishnoi" /></p>
+</div>
+<table>
+  <tr>
+   
+<td><img src="https://github-readme-stats.vercel.app/api?username=SampratiVishnoi&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="SampratiVishnoi" />
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=SampratiVishnoi&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="SampratiVishnoi" /></td>
+  </tr>
+</table>
+
+
+
+<hr>
 
 
 
