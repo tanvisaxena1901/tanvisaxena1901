@@ -6,6 +6,7 @@ I am Tanvi Saxena. I am persuing Bachelor of Technology focused in Computer Scie
 ### 🌱 What do I do and What have I done? 
 - Finalist at Jp Morgan and Chase CodeForGood 2022 National Hackathon.
 - Recipient of Google Generation 2022 Scholarship and AWS Machine learning Scholarship by Udacity. 
+- Selected by Amazon for Amazon Machine Learning Summer School June 2022.
 - Lead at Unstop Igniters Club, Banasthali Vidyapith.
 - Core Team Member at Google Developer Student Club, Banasthali Vidyapith.
 - Technical Head at GFG Student Chapter of Banasthali Vidyapith
