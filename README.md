@@ -43,14 +43,10 @@ You can ask me anything (within reason). I am looking forward to absorb knowledg
 <table>
    <tr>
       <td><img src="https://github-readme-stats.vercel.app/api?username=tanvisaxena1901&include_all_commits=true&count_private=true&show_icons=true&line_height=24&title_color=1363DF&icon_color=47B5FF&text_color=DFF6FF&bg_color=0,000000,130F40" alt="Tanvi Saxena" />
-         <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanvisaxena1901&theme=dark&line_height=23" alt="tanvisaxena1901" /></td>
-   </tr>
-<tr>
-  <td>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanvisaxena1901&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="tanvisaxena1901" width="500" height="150"/></p>
+        <td>
+           <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanvisaxena1901&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="tanvisaxena1901" width="500" height="150"/>
     </td>
-  <td><img src="https://wakatime.com/share/@tanvisaxena1901/4b1ab3f2-2b69-45bd-af50-49b8358d6ae7.svg" height="150"></td>
-  </tr>
+   </tr>
 </table>
 <p><kbd><img src="https://github-readme-activity-graph.cyclic.app/graph?username=tanvisaxena1901&theme=react-dark"></kbd></p>
 
